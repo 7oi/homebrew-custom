@@ -1,6 +1,6 @@
 cask :v1 => 'popcorn-time' do
   version '0.3.6'
-  sha256 'ade06bff28118b83a69f6dcad2e7cabdc0a5d5445b5e12b1b65587e263dc7f74'
+  sha256 :no_check
 
   url "https://get.popcorntime.io/build/Popcorn-Time-#{version}-Mac.dmg"
   homepage 'http://popcorntime.io/'
