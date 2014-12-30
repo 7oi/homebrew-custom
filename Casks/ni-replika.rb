@@ -4,7 +4,7 @@ cask :v1 => 'ni-replika' do
 
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/Replika_120_Mac.dmg'
   name 'Replika'
-  homepage 'file:///Volumes/Komplete%209%20Ultimate/Others/NI/Replika_120_Mac.dmg'
+  homepage 'http://www.native-instruments.com/en/products/komplete/effects/replika/'
   license :commercial
 
   pkg 'Replika 1.2.0 Installer Mac.pkg'
