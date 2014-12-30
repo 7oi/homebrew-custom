@@ -1,4 +1,4 @@
-cask :v1 => 'macaw' do
+cask :v1 => 'macaw-mine' do
   version '1.5.9'
   sha256 '498dec8e1e5ddeb9796ad472b12544c04d79788d4f84d15a470e5d97a3528e3f'
 
