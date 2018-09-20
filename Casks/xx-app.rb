@@ -5,7 +5,7 @@ cask 'xx-app' do
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/MetaSynth/XX54Capponly_dl.zip'
   name 'XX 5.4'
   homepage 'http://uisoftware.com/XX/'
-  license :commercial
+  
 
   pkg 'XX54Capponly_dl.pkg'
 

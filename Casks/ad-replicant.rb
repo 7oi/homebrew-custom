@@ -5,7 +5,7 @@ cask 'ad-replicant' do
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/AudioDamage/OSX_replicant_163a.zip'
   name 'Replicant 1.5'
   homepage 'http://www.audiodamage.com/effects/product.php?pid=AD013'
-  license :commercial
+  
 
   pkg 'Replicant_163.pkg'
 

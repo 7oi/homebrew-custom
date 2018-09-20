@@ -5,7 +5,7 @@ cask 'metasynth-demo' do
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/MetaSynth/MS54DEMO.zip'
   name 'MetaSynthDEMO 5.4'
   homepage 'http://www.uisoftware.com/MetaSynth/index.php'
-  license :commercial
+  
 
   pkg 'MS54DEMO.pkg'
 

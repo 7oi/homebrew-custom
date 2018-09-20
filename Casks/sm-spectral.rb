@@ -5,7 +5,7 @@ cask 'sm-spectral' do
   url 'http://www.michaelnorris.info/downloads/soundmagicspectralb8.dmg'
   name 'SoundMagic Spectral'
   homepage 'http://www.michaelnorris.info/software/soundmagic-spectral'
-  license :commercial
+  
 
   pkg 'SoundMagic Spectral b8 AU plugins.pkg'
 

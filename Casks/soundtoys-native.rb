@@ -5,7 +5,7 @@ cask 'soundtoys-native' do
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/SoundToys/SoundToysNativeEffects_443.dmg'
   name 'SoundToys Native Effects V4'
   homepage 'https://www.soundtoys.com/product/soundtoysnativeeffects'
-  license :commercial
+  
 
   pkg 'Install SoundToys Native Effects.pkg'
 

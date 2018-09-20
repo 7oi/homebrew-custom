@@ -5,7 +5,7 @@ cask 'metasynth-app' do
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/MetaSynth/MS54Capponly_dl.zip'
   name 'MetaSynth 5.4'
   homepage 'http://www.uisoftware.com/MetaSynth/index.php'
-  license :commercial
+  
 
   pkg 'MS54Capponly_dl.pkg'
 

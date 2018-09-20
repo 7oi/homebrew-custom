@@ -5,7 +5,7 @@ cask 'uhe-ace' do
   url 'http://uhedownloads.heckmannaudiogmb.netdna-cdn.com/ACE/ACE13Mac.zip'
   name 'ACE'
   homepage 'http://www.u-he.com/cms/ace'
-  license :commercial
+  
 
   pkg 'ACE 1.3 Installer.pkg'
 

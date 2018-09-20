@@ -5,7 +5,7 @@ cask 'ad-discord3' do
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/AudioDamage/OSX_discord3_112.zip'
   name 'Discord3'
   homepage 'http://www.audiodamage.com/effects/product.php?pid=AD025'
-  license :commercial
+  
 
   pkg 'Discord3_112.pkg'
 

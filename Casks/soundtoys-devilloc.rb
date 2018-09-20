@@ -5,7 +5,7 @@ cask 'soundtoys-devilloc' do
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/SoundToys/DevilLocDeluxe_443.dmg'
   name 'Devil-Loc Deluxe'
   homepage 'https://www.soundtoys.com/product/devilloc'
-  license :commercial
+  
 
   pkg 'Install Devil-Loc Deluxe.pkg'
 

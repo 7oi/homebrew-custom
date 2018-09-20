@@ -5,7 +5,7 @@ cask 'soundtoys-radiator' do
   url 'file:///Volumes/Komplete%209%20Ultimate/Others/SoundToys/Radiator_443.dmg'
   name 'Radiator'
   homepage 'https://www.soundtoys.com/product/radiator'
-  license :commercial
+  
 
   pkg 'Install Radiator.pkg'
 

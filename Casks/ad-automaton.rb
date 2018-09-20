@@ -5,7 +5,7 @@ cask 'ad-automaton' do
   url "file:///Volumes/Komplete%209%20Ultimate/Others/AudioDamage/OSX_automaton_120.zip"
   name 'Automaton'
   homepage 'http://www.audiodamage.com/effects/product.php?pid=AD020'
-  license :commercial
+  
 
   pkg 'Automaton_120.pkg'
 
