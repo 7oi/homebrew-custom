@@ -1,4 +1,4 @@
-cask :v1 => 'ad-replicant' do
+cask 'ad-replicant' do
   version '1.6.3'
   sha256 :no_check
 

@@ -1,4 +1,4 @@
-cask :v1 => 'ad-discord3' do
+cask 'ad-discord3' do
   version '1.1.2'
   sha256 :no_check
 

@@ -1,4 +1,4 @@
-cask :v1 => 'xfer-cthulhu' do
+cask 'xfer-cthulhu' do
   version '1.0.8'
   sha256 '2754eaf95277d04cf2615f9f004c7cf1798d9fa47b2b1adf7c8bdda602d6dbf8'
 

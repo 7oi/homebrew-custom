@@ -1,4 +1,4 @@
-cask :v1 => 'ad-automaton' do
+cask 'ad-automaton' do
   version '1.2.0'
   sha256 :no_check
 

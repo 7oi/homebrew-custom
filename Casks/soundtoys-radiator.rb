@@ -1,4 +1,4 @@
-cask :v1 => 'soundtoys-radiator' do
+cask 'soundtoys-radiator' do
   version '4.4.3'
   sha256 :no_check
 

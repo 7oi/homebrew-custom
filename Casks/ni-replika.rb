@@ -1,4 +1,4 @@
-cask :v1 => 'ni-replika' do
+cask 'ni-replika' do
   version '1.2.0'
   sha256 :no_check
 

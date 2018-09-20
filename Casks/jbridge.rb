@@ -1,4 +1,4 @@
-cask :v1 => 'jbridge' do
+cask 'jbridge' do
   version '0.9'
   sha256 '46ce95a62906a0f67902d6ac66e6686b4614fa6d4ba138de511b0921f312d779'
 

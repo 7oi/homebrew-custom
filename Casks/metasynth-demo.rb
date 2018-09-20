@@ -1,4 +1,4 @@
-cask :v1 => 'metasynth-demo' do
+cask 'metasynth-demo' do
   version '5.4'
   sha256 :no_check
 

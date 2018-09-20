@@ -1,4 +1,4 @@
-cask :v1 => 'xx-app' do
+cask 'xx-app' do
   version '5.4'
   sha256 :no_check
 
